@@ -1,1 +1,0 @@
-/home/jegarcia/.vimrc
